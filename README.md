@@ -1,5 +1,11 @@
 ## Hi there 👋
+## Castle Merge
 
+Castle Merge is a medieval-themed merge puzzle game I’m developing with a teammate. Players combine items, build generators, and discover new item chains as they open up the board.
+
+I work across game design, development, and playtesting. My work includes shaping the core merge mechanics, designing generators and item progression, guiding the visual design of game assets, and building and testing the playable web prototype. I use playtest feedback to refine the board layout, energy system, and pace of progression.
+
+[Play the web demo](https://castle-merge-berka-play.huedpopcorn2.chatgpt.site)
 <!--
 **brkngcl/brkngcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
