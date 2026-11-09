@@ -10,7 +10,13 @@ I work across game design, development, and playtesting. My work includes shapin
 **brkngcl/brkngcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Seismic Fault Detection and Facies Classification
 
+I worked with two teammates from initial planning through final delivery on a capstone project at Istanbul Technical University. We built a deep learning workflow that detects faults and maps six geological facies on seismic sections, with an interactive viewer that displays both predictions together.
+
+**Best Graduation Design Project Award (2nd Place)** · YER 2026
+
+[Explore the project and results](https://github.com/brkngcl/seismic-interpretation-deep-learning)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
