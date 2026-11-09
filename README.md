@@ -7,7 +7,7 @@ I work across game design, development, and playtesting. My work includes shapin
 
 [Play the web demo](https://castle-merge-berka-play.huedpopcorn2.chatgpt.site)
 
-## Seismic Fault Detection and Facies Classification
+## Deep Learning for Seismic Fault Detection and Facies Classification
 
 I worked with two teammates from initial planning through final delivery on a capstone project at Istanbul Technical University. We built a deep learning workflow that detects faults and maps six geological facies on seismic sections, with an interactive viewer that displays both predictions together.
 
